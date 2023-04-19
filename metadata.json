@@ -1,0 +1,11 @@
+{
+    "name": "Test",
+    "description": "Test Shell App",
+    "shell-version": [
+        "3.36",
+        "42.5"
+    ],
+    "url": "",
+    "uuid": "gnome-shell-test@andrew-stclair.com",
+    "version": 1.0
+}
